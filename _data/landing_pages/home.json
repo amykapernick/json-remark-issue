@@ -1,0 +1,91 @@
+{
+  "title": "Home",
+  "content": [
+    {
+      "type": "block_1",
+      "image": "/src/img/cms/phone_screenshot.png",
+      "sections": [
+        {
+          "heading": "SAVE money on your utility bills",
+          "content": "* Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, qui.\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+          "image": "/src/img/cms/icon_money.svg"
+        },
+        {
+          "image": "/src/img/cms/icon_foot.svg",
+          "heading": "REDUCE your carbon footprint",
+          "content": "* Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, qui.\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+        },
+        {
+          "image": "/src/img/cms/icon_lead.svg",
+          "heading": "UNDERSTAND your individual impact",
+          "content": "* Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, qui.\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+        }
+      ]
+    },
+    {
+      "type": "block_3",
+      "heading": "How the app works",
+      "sections": [
+        {
+          "image": "/src/img/cms/icon_measure.svg",
+          "heading": "Measure",
+          "content": "Calculate your carbon footprint, track your emissions annually and compare your results with others across the country"
+        },
+        {
+          "image": "/src/img/cms/icon_audit.svg",
+          "heading": "Audit",
+          "content": "Understand how buildings and facilities consume resources and see how it impacts your overall carbon footprint. Compare assets to other users."
+        },
+        {
+          "image": "/src/img/cms/icon_action.svg",
+          "heading": "Action",
+          "content": "Learn how to systematically reduce your carbon footprint. Assign tasks, set deadlines, implement initiatives, monitor progress and share experiences."
+        }
+      ]
+    },
+    {
+      "type": "block_4",
+      "heading": "Sign Up in 4 Easy Steps",
+      "sections": [
+        {
+          "image": "/src/img/cms/icon_1.svg",
+          "heading": "",
+          "content": "Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam  nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci."
+        },
+        {
+          "image": "/src/img/cms/icon_2.svg",
+          "content": "Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam  nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci."
+        },
+        {
+          "image": "/src/img/cms/icon_3.svg",
+          "content": "Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam  nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci."
+        },
+        {
+          "image": "/src/img/cms/icon_4.svg",
+          "content": "Body text here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam  nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci."
+        }
+      ],
+      "image": "",
+      "content": ""
+    },
+    {
+      "button": "",
+      "link": "",
+      "type": "block_6",
+      "sections": [
+        {
+          "heading": "30",
+          "content": "Number of schools signed up to the Initiative"
+        },
+        {
+          "heading": "51,223",
+          "content": "Number of trees planted by students and the community"
+        },
+        {
+          "heading": "12",
+          "content": "Number of partners who have supported schools and communities"
+        }
+      ]
+    }
+  ]
+}

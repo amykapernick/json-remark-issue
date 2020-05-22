@@ -1,0 +1,22 @@
+{
+  "name": "json-remark-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "keywords": [],
+  "author": "AimHigher Web Design <amy@aimhigherweb.design> (https://aimhigherweb.design)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.21.21",
+    "gatsby-plugin-json-remark": "^1.1.0",
+    "gatsby-source-filesystem": "^2.3.1",
+    "gatsby-transformer-json": "^2.4.3",
+    "gatsby-transformer-remark": "^2.8.12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
